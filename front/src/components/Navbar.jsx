@@ -12,6 +12,9 @@ const Navbar = () => {
             <Link to="/" className="hover:underline">Home</Link>
           </li>
           <li>
+            <Link to="/dashboard" className="hover:underline">Dashboard</Link>
+          </li>
+          <li>
             <Link to="/hospitals" className="hover:underline">Hospitals</Link>
           </li>
           <li>
